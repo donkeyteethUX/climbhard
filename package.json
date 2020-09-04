@@ -22,7 +22,7 @@
     "eslint-plugin-no-loops": "^0.3.0",
     "eslint-plugin-react": "^6.10.0",
     "file-loader": "^0.10.1",
-    "papaparse": "4.6.3",
+    "papaparse": "5.2.0",
     "request": "^2.81.0",
     "style-loader": "^0.23.1",
     "webpack": "4",
